@@ -3,24 +3,24 @@
 <!-- Счётчик просмотров -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mrBug&color=blueviolet&style=flat-square)
 
-# Привет, я Bobur — aka mrBug 👾
+# Hi, I'm Bobur — aka mrBug 👾
 
 > *"I don't fix bugs. I create features that weren't planned."*
 
-**Строю вещи, которые работают. Иногда с первого раза.**
+**I create things that work sometimes the first time.**
 
 </div>
 
 ---
 
-## 🧠 Обо мне
+## 🧠 About me
 
 ```python
 class mrBug:
     name       = "Bobur Akmalovich"
     aka        = "mrBug"
-    passion    = "люблю создавать"
-    currently  = "строю что-то интересное"
+    passion    = "I love to create"
+    currently  = "I'm building something interesting"
 
     stack = {
         "backend":   ["Python", "Django", "FastAPI", "Go"],
@@ -30,12 +30,12 @@ class mrBug:
     }
 
     def motto(self):
-        return "Если можно автоматизировать — нужно автоматизировать."
+        return "If it can be automated — it should be automated."
 ```
 
 ---
 
-## 🛠️ Стек
+## 🛠️ Stack
 
 **Backend**
 
@@ -53,7 +53,7 @@ class mrBug:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-**DevOps & Инфраструктура**
+**DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -62,13 +62,12 @@ class mrBug:
 
 ---
 
-## 🚀 Сейчас работаю над
+## 🚀 Now I'm working on
 
-<!-- Обнови эту секцию когда запустишь новый проект -->
+
 ```
-🔭  Текущий проект: [название проекта]
-🌱  Изучаю:        [что изучаешь]
-🎯  Цель на год:   [твоя цель]
+🔭  Current project: [Terminator-AI]
+🌱  Studying:        [AI]
 ```
 
 ---
@@ -80,7 +79,7 @@ class mrBug:
 </div>
 ---
 
-## 🐍 Вклад в open source
+## 🐍 Contribution to open source
 
 <div align="center">
 
@@ -91,7 +90,7 @@ class mrBug:
 
 ---
 
-## 📬 Связаться
+## 📬 Contact
 
 <div align="center">
 
@@ -105,6 +104,6 @@ class mrBug:
 ---
 
 <div align="center">
-<sub>Сделано с 🖤 и большим количеством кофе · mrBug</sub>
+<sub>Made with 🖤 and lots of coffee · mrBug</sub>
 </div>
 
