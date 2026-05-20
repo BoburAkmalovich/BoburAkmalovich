@@ -89,7 +89,7 @@ class mrBug:
 <div align="center">
 
 <!-- Змейка генерируется через GitHub Actions — инструкция ниже -->
-![snake animation](https://raw.githubusercontent.com/mrBug/mrBug/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/BoburAkmalovich/BoburAkmalovich/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
